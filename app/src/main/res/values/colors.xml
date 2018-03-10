@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#0270ca</color>
+    <color name="primaryDark">#035b96</color>
+    <color name="accent">#ff0703</color>
+
+    <color name="drawerSelectedItem">#eeeeee</color>
+    <color name="drawerText">#000000</color>
+</resources>
